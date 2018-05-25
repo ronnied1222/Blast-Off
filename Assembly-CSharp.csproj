@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{F3262634-8480-5F03-4A7A-00C7F8FE867D}</ProjectGuid>
+    <ProjectGuid>{E0323C55-715B-BB1B-B70C-A154DB02AE57}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,11 +60,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Rocket.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/ronalddavis/Desktop/Unity Projects/Blast Off/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/ronalddavis/Desktop/Unity Projects/Blast Off/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/ronalddavis/Desktop/Unity Projects/Blast-Off/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/ronalddavis/Desktop/Unity Projects/Blast-Off/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
